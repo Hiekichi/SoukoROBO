@@ -16,7 +16,7 @@
 - 荷物は押すだけ
 
 ## 動作確認はこちらから
-- [Pyxel Web Launcher](https://kitao.github.io/pyxel/wasm/launcher/?run=Hiekichi.SoukoROBO.SoukoROBOGame180)
+- [Pyxel Web Launcher](https://kitao.github.io/pyxel/wasm/launcher/?run=Hiekichi.SoukoROBO.SoukoRoboGame180)
 - [ハンドヘルドゲーム機用(pyxappファイル)](https://github.com/Hiekichi/SoukoROBO/blob/main/SoukoROBO.pyxapp)
 
 
